@@ -1,4 +1,4 @@
-using UnityEngine;
+/*using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
 
@@ -45,4 +45,4 @@ public class FPSInputController : MonoBehaviour
         motor.inputMoveDirection = transform.rotation * directionVector;
 		motor.inputJump = false;//Input.GetButton("Jump");
     }
-}
+}*/

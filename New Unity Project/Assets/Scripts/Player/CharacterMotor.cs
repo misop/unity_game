@@ -1,4 +1,4 @@
-using UnityEngine;
+/*using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
 
@@ -226,7 +226,7 @@ public class CharacterMotor : MonoBehaviour
                 // Prevent rotation of the local up vector
                 tr.Rotate(0, yRotation, 0);
             }
-        }*/
+        }* /
 
         // Save lastPosition for velocity calculation.
         Vector3 lastPosition = tr.position;
@@ -258,7 +258,7 @@ public class CharacterMotor : MonoBehaviour
                 movingPlatform.lastMatrix = movingPlatform.hitPlatform.localToWorldMatrix;
                 movingPlatform.newPlatform = true;
             }
-        }*/
+        }* /
 
         // Calculate the velocity based on the current and previous position.  
         // This means our velocity will only be the amount the character actually moved as a result of collisions.
@@ -335,7 +335,7 @@ public class CharacterMotor : MonoBehaviour
             // Support moving platform rotation as well:
             movingPlatform.activeGlobalRotation = tr.rotation;
             movingPlatform.activeLocalRotation = Quaternion.Inverse(movingPlatform.activePlatform.rotation) * movingPlatform.activeGlobalRotation;
-        }*/
+        }* /
     }
 
     void FixedUpdate()
@@ -360,7 +360,7 @@ public class CharacterMotor : MonoBehaviour
             {
                 movingPlatform.platformVelocity = Vector3.zero;
             }
-        }*/
+        }* /
 
         if(useFixedUpdate)
             UpdateFunction();
@@ -652,3 +652,4 @@ public class CharacterMotor : MonoBehaviour
         SendMessage("OnExternalVelocity");
     }
 }
+*/

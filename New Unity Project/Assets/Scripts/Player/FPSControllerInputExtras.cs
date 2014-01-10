@@ -21,7 +21,7 @@ public class FPSControllerInputExtras : MonoBehaviour {
 	
 	// Use this for initialization
 	void Start () {
-		chMotor =  GetComponent<CharacterMotor>();
+		chMotor =  this.GetComponent<CharacterMotor>();
 		playerBars = GameObject.FindGameObjectWithTag(Tags.player).GetComponent<PlayerBars>();
 		tr = transform;
 		//CharacterController ch = GetComponent<CharacterController>();

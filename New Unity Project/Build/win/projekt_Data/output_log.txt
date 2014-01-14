@@ -6,23 +6,19 @@ Direct3D:
     Vendor:   NVIDIA
     VRAM:     462 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\mm\Documents\New Unity Project\Build\win\projekt_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\mm\Documents\New Unity Project\Build\win\projekt_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\mm\Documents\New Unity Project\Build\win\projekt_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\Users\mm\Documents\New Unity Project\Build\win\projekt_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\mm\Documents\New Unity Project\Build\win\projekt_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\mm\Documents\New Unity Project\Build\win\projekt_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\mm\Documents\New Unity Project\Build\win\projekt_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
-Loading C:\Users\mm\Documents\New Unity Project\Build\win\projekt_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\mm\Documents\New Unity Project\Build\win\projekt_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading C:\Users\mm\Documents\New Unity Project\Build\win\projekt_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-- Completed reload, in  0.045 seconds
+Platform assembly: C:\Users\mm\Documents\GitHub\unity_game\New Unity Project\Build\win\projekt_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\mm\Documents\GitHub\unity_game\New Unity Project\Build\win\projekt_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\mm\Documents\GitHub\unity_game\New Unity Project\Build\win\projekt_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\mm\Documents\GitHub\unity_game\New Unity Project\Build\win\projekt_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\mm\Documents\GitHub\unity_game\New Unity Project\Build\win\projekt_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\mm\Documents\GitHub\unity_game\New Unity Project\Build\win\projekt_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\mm\Documents\GitHub\unity_game\New Unity Project\Build\win\projekt_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\mm\Documents\GitHub\unity_game\New Unity Project\Build\win\projekt_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\mm\Documents\GitHub\unity_game\New Unity Project\Build\win\projekt_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\mm\Documents\GitHub\unity_game\New Unity Project\Build\win\projekt_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.053 seconds
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-Platform assembly: C:\Users\mm\Documents\New Unity Project\Build\win\projekt_Data\Managed\System.dll (this message is harmless)
-The file 'C:/Users/mm/Documents/New Unity Project/Build/win/projekt_Data/mainData' is corrupted! Remove it and launch unity again!
-[Position out of bounds! 357796 > 357792]
- 
-(Filename:  Line: 276)
-
+Platform assembly: C:\Users\mm\Documents\GitHub\unity_game\New Unity Project\Build\win\projekt_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\mm\Documents\GitHub\unity_game\New Unity Project\Build\win\projekt_Data\Managed\Boo.Lang.dll (this message is harmless)

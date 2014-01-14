@@ -16,7 +16,7 @@ Platform assembly: C:\Users\mm\Documents\GitHub\unity_game\New Unity Project\Bui
 Loading C:\Users\mm\Documents\GitHub\unity_game\New Unity Project\Build\win\projekt_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
 Platform assembly: C:\Users\mm\Documents\GitHub\unity_game\New Unity Project\Build\win\projekt_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
 Loading C:\Users\mm\Documents\GitHub\unity_game\New Unity Project\Build\win\projekt_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-- Completed reload, in  0.053 seconds
+- Completed reload, in  0.046 seconds
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
